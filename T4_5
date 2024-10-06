@@ -1,1 +1,59 @@
 
+<html>
+    <h1>eSports tournament</h1>
+    <table style="border:1px solid lightgrey;border-collapse:collapse;">
+        <tr style="border:1px solid lightgrey;background-color:Olive;color:white;">
+            <td>Game</td>
+            <td>Team 1</td>
+            <td>Team 2</td>
+            <td>Date</td>
+            <td>Score</td>
+        </tr>
+        <tr style="border:1px solid lightgrey">
+           <td style="background-color:Olive;color:white;">Warface</td>
+           <td style="background-color:burlywood">
+            <img style="width:30px;heigth:30px;" src="https://learn.logika.asia/uploads/2020/10/soldier_0_1603274414.png"/>
+            Legion
+            </td>
+           <td>
+            <img style="width:30px;heigth:30px;" src="//learn.logika.asia/uploads/2020/10/bomb-detonation_0_1603274413.png"> 
+            Fire Master</td>
+           <td style="background-color:burlywood">11.11.2020</td>
+           <td>
+            <img style="width:30px;heigth:30px;" src="https://learn.logika.asia/uploads/2020/10/swords_0_1603274414.png">
+            2 : 0
+            </td>
+        </tr> 
+        <tr style="border:1px solid lightgrey">
+            <td style="background-color:Olive;color:white;">CrossFire</td>
+            <td style="background-color:burlywood">
+                <img style="width:30px;heigth:30px;" src="https://learn.logika.asia/uploads/2020/10/world-war_0_1603274414.png">
+                Wind of War
+                </td>
+            <td>
+            <img style="width:30px;heigth:30px;" src="https://learn.logika.asia/uploads/2020/10/soldier_0_1603274414.png"/> 
+                Legion</td>
+            <td style="background-color:burlywood">22.11.2020</td>
+            <td>
+                <img style="width:30px;heigth:30px;" src="https://learn.logika.asia/uploads/2020/10/swords_0_1603274414.png">
+                2 : 1
+                </td>
+        </tr>
+        <tr style="border:1px solid lightgrey">
+            <td style="background-color:Olive;color:white;">CS GO</td>
+            <td style="background-color:burlywood">
+                <img style="width:30px;heigth:30px;" src="https://learn.logika.asia/uploads/2020/10/meteorite_0_1603274414.png">
+                Demon Strike
+                </td>
+            <td>
+            <img style="width:30px;heigth:30px;" src="https://learn.logika.asia/uploads/2020/10/world-war_0_1603274414.png">
+                Wind of War
+                </td>
+            <td style="background-color:burlywood">03.12.2020</td>
+            <td>
+                <img style="width:30px;heigth:30px;" src="https://learn.logika.asia/uploads/2020/10/swords_0_1603274414.png">
+                1 : 0
+                </td>
+        </tr>
+    </table>
+</html>
